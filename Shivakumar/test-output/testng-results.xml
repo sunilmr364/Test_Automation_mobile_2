@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-27T12:07:23 IST" name="Default suite" finished-at="2025-06-27T12:08:03 IST" duration-ms="40559">
+  <suite started-at="2025-06-27T13:27:25 IST" name="Default suite" finished-at="2025-06-27T13:28:12 IST" duration-ms="47120">
     <groups>
     </groups>
-    <test started-at="2025-06-27T12:07:23 IST" name="Default test" finished-at="2025-06-27T12:08:03 IST" duration-ms="40559">
-      <class name="org.TestDemo.Demo1">
-        <test-method signature="login()[pri:1, instance:org.TestDemo.Demo1@5e82df6a]" started-at="2025-06-27T12:07:23 IST" name="login" finished-at="2025-06-27T12:07:49 IST" duration-ms="25997" status="PASS">
+    <test started-at="2025-06-27T13:27:25 IST" name="Default test" finished-at="2025-06-27T13:28:12 IST" duration-ms="47120">
+      <class name="org.TestDemo_Automation.Demo_Test_Automatiom_1">
+        <test-method signature="Login()[pri:0, instance:org.TestDemo_Automation.Demo_Test_Automatiom_1@10e41621]" started-at="2025-06-27T13:27:25 IST" name="Login" finished-at="2025-06-27T13:27:48 IST" duration-ms="22548" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="create_customer()[pri:2, instance:org.TestDemo.Demo1@5e82df6a]" started-at="2025-06-27T12:07:49 IST" name="create_customer" finished-at="2025-06-27T12:07:56 IST" duration-ms="7902" status="PASS">
+        </test-method> <!-- Login -->
+        <test-method signature="create_customer()[pri:0, instance:org.TestDemo_Automation.Demo_Test_Automatiom_1@10e41621]" started-at="2025-06-27T13:27:48 IST" name="create_customer" finished-at="2025-06-27T13:28:05 IST" duration-ms="17388" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- create_customer -->
-        <test-method signature="delete_customer()[pri:3, instance:org.TestDemo.Demo1@5e82df6a]" started-at="2025-06-27T12:07:56 IST" name="delete_customer" finished-at="2025-06-27T12:08:03 IST" duration-ms="6619" status="PASS">
+        <test-method signature="delete_customer()[pri:0, instance:org.TestDemo_Automation.Demo_Test_Automatiom_1@10e41621]" started-at="2025-06-27T13:28:05 IST" name="delete_customer" finished-at="2025-06-27T13:28:12 IST" duration-ms="7146" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- delete_customer -->
-      </class> <!-- org.TestDemo.Demo1 -->
+      </class> <!-- org.TestDemo_Automation.Demo_Test_Automatiom_1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
